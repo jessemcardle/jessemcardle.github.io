@@ -5,9 +5,9 @@
 </head>
 <body>
 <form>
-    <label for="pswd">Enter your password: </label>
-    <input type="password" id="pswd">
-    <input type="button" value="Submit" onclick="checkPswd();" />
+    <p for="pswd">Press the button please :) </p>
+    <!--<input type="password" id="pswd"> --> 
+    <input type="button" value="Submit" onclick="welcomePage();" />
 </form>
 
 <!--Function to check password the already set password is admin-->
@@ -21,6 +21,9 @@
         else{
             alert("Passwords do not match.");
         }
+    }
+    function welcomePage() {
+        window.location="welcome.html"
     }
 </script>
 </body>
