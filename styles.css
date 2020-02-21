@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-	background: #00b4ff;
+	background: #97428c;
 	color: #333;
 	font: 100% Lato, Arial, Sans Serif;
 	height: 100vh;
@@ -12,6 +12,13 @@ body {
 	padding: 0;
     overflow-x: hidden;
     text-align: center;
+}
+
+img {
+    
+    height: 4in;
+    vertical-align: 0in;
+
 }
 
 #background-wrap {

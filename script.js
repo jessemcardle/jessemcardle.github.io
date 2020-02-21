@@ -1,1 +1,1 @@
-alert("Are you ready for the bubbles?!?")
+alert("I just want you to know")
